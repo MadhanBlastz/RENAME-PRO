@@ -5,7 +5,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "7074117011:AAHeKuI6znMy4d-HcyEBOsJ-IkgH
 API_ID = int(os.environ.get("API_ID", "21661450"))
 API_HASH = os.environ.get("API_HASH", "79612bc71908f95372808520a7eeee74")
 OWNER = int(os.environ.get("OWNER", "2021408974"))
-BOT_USERNAME = os.environ.get('BOT_USERNAME', "@Rename_XYZ_RoBot")
+BOT_USERNAME = os.environ.get('BOT_USERNAME', "Rename_XYZ_RoBot")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002169744829")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002233706633"))
